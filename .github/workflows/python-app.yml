@@ -42,4 +42,4 @@ jobs:
 
     - name: Run Python
       run: |
-        python ./lab.py
+        python lab.py
